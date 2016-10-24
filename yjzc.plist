@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>downloadtype</key>
+<string>0</string>
+<key>kycode</key>
+<string>1_9_11_1110</string>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>http://yoojar-10034662.cos.myqcloud.com/yjzc/app/ios/yjzc_1_9_11_1110.ipa?r=003</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>full-size-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>http://yoojar-10034662.cos.myqcloud.com/yjzc/app/yjzc_icon.png</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>http://yoojar-10034662.cos.myqcloud.com/yjzc/app/yjzc_icon.png</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>com.yoojar.burningvehicle</string>
+<key>bundle-version</key>
+<string>1.9.11.1110</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>Burning Metal</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
